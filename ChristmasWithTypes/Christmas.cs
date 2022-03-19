@@ -9,7 +9,7 @@ namespace ChristmasWithTypes
 
         //TODO Make the property, "Day", type enum
         public enum Day { /*Fill out the days of the week*/
-            Thursday
+           Thursday
         }
     }
 }
